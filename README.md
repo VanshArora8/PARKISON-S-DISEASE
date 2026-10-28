@@ -28,7 +28,7 @@ How to run the project
 1. Download and extract the ZIP file.
 2. Open the extracted folder in VS Code.
 3. Open the terminal and run:
-4. 
+
 pip install -r requirements.txt
 streamlit run app.py
 
