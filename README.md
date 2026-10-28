@@ -24,3 +24,14 @@ Logistic Regression and KNN scored 87% and 84%, respectively. Decision Tree reac
 suggesting potential overfitting, and Naive Bayes showed the lowest accuracy at 69%. The 
 findings highlight Random Forest as the most reliable model, demonstrating the utility of 
 ensemble approaches for PD classification.
+How to run the project
+1. Download and extract the ZIP file.
+2. Open the extracted folder in VS Code.
+3. Open the terminal and run:
+4. 
+pip install -r requirements.txt
+streamlit run app.py
+
+
+5. Open the local URL displayed in the terminal.
+6. Upload your Parkinson’s dataset in CSV format and click Train models.
